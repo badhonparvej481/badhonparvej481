@@ -95,15 +95,8 @@ Technologies and Languages </h2>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FahimFBA" alt="FahimFBA" /></p>
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badhonkhan481" alt="badhonkhan481" /></p>
 </div>
-
-
-
-
 
 
 
@@ -116,47 +109,12 @@ Technologies and Languages </h2>
 <div align="center">
 
 
-:star: [Codeforces](https://codeforces.com/profile/FahimFBA) <br>
-:star: [Toph](https://toph.co/u/FahimFBA) <br>
-:star: [HackerRank](https://www.hackerrank.com/FahimFBA) <br>
-:star: [HackerEarth](https://www.hackerearth.com/@md.fahim3) <br>
-:star: [URI](https://www.urionlinejudge.com.br/judge/en/profile/436965) <br>
-:star: [Dimik OJ](https://dimikoj.com/) <br>
-:star: [Codechef](https://www.codechef.com/users/fahimfba)  <br>
-:star: [CodingBat](https://codingbat.com/) <br>
-:star: [Leetcode](https://leetcode.com/FBA/) <br>
-:star: [SPOJ](https://www.spoj.com/users/fahimfba/) <br>
-:star: [LightOJ](http://lightoj.com/) <br>
-:star: [Timus](https://acm.timus.ru/author.aspx?id=302862)<br>
-:star: [AMT](http://orac.amt.edu.au/)<br>
-:star: [UVa](http://onlinejudge.org/)<br>
-:star: [CodeMarshal](https://algo.codemarshal.org/users/FahimFBA) <br>
+:star: [Codeforces](https://codeforces.com/profile/badhonkhan481) <br>
+:star: [HackerRank](https://www.hackerrank.com/badhonkhan481) <br>
 <i>Many more are coming soon...</i> :clap: </div> </details>
 	
 	
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-
-<div align="center">
-	
-
-![FahimFBA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FahimFBA&layout=compact&theme=synthwave&v=2)
-
-
-</div>
-
-
-<p align="center">
-
-<a href="https://github.com/FahimFBA/github-readme-twitter">
-<img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=Fahim_FBA&layout=wide&show_reply=off&show_retweet=off" />
-</a>
-
-</p>
-
-
-
 ------
-Credit: [FahimFBA](https://github.com/FahimFBA)
-Last Edited on: 01/09/2021
+Credit: [Badhon Parvej](https://github.com/badhonkhan481)
