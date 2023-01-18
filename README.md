@@ -10,15 +10,7 @@
   </h3> 
       
  <p align="center" width="90%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badhonkhan481&theme=onestar" alt="Badhon Parvej" /></a> </p>              
-     
-<div align="center">
-
-[![](https://raw.githubusercontent.com/badhonkhan481/badhonkhan481/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
-</div>
+    
 
 <h2 align="center">
 Technologies and Languages </h2>
