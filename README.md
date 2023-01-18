@@ -1,4 +1,5 @@
-<h2 align="center"> Hi 👋 , I'm Badhon Parvej <br/></h2> 
+
+<img width="100%" alt="Badhon" src="https://github.com/badhonkhan481/badhonkhan481/blob/main/cmr.jpg"><h2 align="center"> I'm Badhon Parvej <br/></h2> 
 <h3 align="center">Working as a Machine Learning Engineer. <br> <br>
   <a href="https://github.com/badhonkhan481" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/badhonkhan481?label=Github%20followers&style=for-the-badge">
@@ -8,7 +9,7 @@
   </a>
   </h3> 
       
-               
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badhonkhan481" alt="sazib0" /></a> </p>              
      
 <div align="center">
 
@@ -78,13 +79,17 @@ Technologies and Languages </h2>
 
 <div align="center">
   
+<p><img align="center" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs?username=badhonkhan481&show_icons=true&locale=en&layout=compact" alt="badhonkhan481" /></p>
 
+<p>&nbsp;<img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=badhonkhan481&show_icons=true&locale=en" alt="badhonkhan481" /></p>
 
   
-  <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
+  <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='100' height='100'></a>
 
  ### ⚡ Fun fact about me: ✨ I love coding+learning+repeating✨ 
  
+
+
 
 
 <h2>Connect with me!</h2>
@@ -95,15 +100,13 @@ Technologies and Languages </h2>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badhonkhan481" alt="badhonkhan481" /></p>
+<p><img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=badhonkhan481&" alt="badhonkhan481" /></p>
+
 </div>
 
 
 
-
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <details>
 	 <summary> :snowflake: Do you want to check my profile of CP related various Online Judges? Click here! 📈:</summary>
 <div align="center">
@@ -114,7 +117,5 @@ Technologies and Languages </h2>
 <i>Many more are coming soon...</i> :clap: </div> </details>
 	
 	
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Credit: [Badhon Parvej](https://github.com/badhonkhan481)
