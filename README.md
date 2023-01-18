@@ -83,28 +83,9 @@ Technologies and Languages </h2>
 
 <p>&nbsp;<img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=badhonkhan481&show_icons=true&locale=en" alt="badhonkhan481" /></p>
 
-  
-  <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='100' height='100'></a>
-
- ### ⚡ Fun fact about me: ✨ I love coding+learning+repeating✨ 
- 
-
-
-
-
-<h2>Connect with me!</h2>
- 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/badhonkhan481/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/badhonkhan481/)  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://facebook.com/badhonkhan481)
-<br> <br>
-🌟 STAR THE REPOS IF YOU LIKE 🌟
-
-
-
 <p><img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=badhonkhan481&" alt="badhonkhan481" /></p>
 
 </div>
-
-
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <details>
@@ -118,4 +99,18 @@ Technologies and Languages </h2>
 	
 	
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ <div align="center">
+ <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='100' height='100'></a>
+
+ ### ⚡ Fun fact about me: ✨ I love coding+learning+repeating✨ 
+ 
+
+
+<h2>Connect with me!</h2>
+ 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/badhonkhan481/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/badhonkhan481/)  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://facebook.com/badhonkhan481)
+<br> <br>
+🌟 STAR THE REPOS IF YOU LIKE 🌟
+</div>
+
 Credit: [Badhon Parvej](https://github.com/badhonkhan481)
