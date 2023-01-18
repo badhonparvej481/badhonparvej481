@@ -9,7 +9,7 @@
   </a>
   </h3> 
       
- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badhonkhan481" alt="sazib0" /></a> </p>              
+ <p align="center" width="90%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badhonkhan481&theme=onestar" alt="Badhon Parvej" /></a> </p>              
      
 <div align="center">
 
@@ -79,11 +79,11 @@ Technologies and Languages </h2>
 
 <div align="center">
   
-<p><img align="center" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs?username=badhonkhan481&show_icons=true&locale=en&layout=compact" alt="badhonkhan481" /></p>
+<p><img align="center" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs?username=badhonkhan481&theme=tokyonight" alt="badhonkhan481" /></p>
 
-<p>&nbsp;<img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=badhonkhan481&show_icons=true&locale=en" alt="badhonkhan481" /></p>
+<p>&nbsp;<img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=badhonkhan481&theme=tokyonight" alt="badhonkhan481" /></p>
 
-<p><img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=badhonkhan481&" alt="badhonkhan481" /></p>
+<p><img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=badhonkhan481&theme=tokyonight" alt="badhonkhan481" /></p>
 
 </div>
 
