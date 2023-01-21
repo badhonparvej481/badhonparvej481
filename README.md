@@ -76,11 +76,11 @@ Technologies and Languages </h2>
 
 <div align="center">
   
-<p><img align="center" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs?username=badhonkhan481&theme=great-gatsby" alt="badhonkhan481" /></p>
+<p><img align="center" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=badhonkhan481&theme=great-gatsby" alt="badhonkhan481" /></p>
 
-<p>&nbsp;<img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=badhonkhan481&theme=great-gatsby" alt="badhonkhan481" /></p>
+<p>&nbsp;<img align="center" width="70%" src="https://github-readme-stats.vercel.app/api?username=badhonkhan481&theme=great-gatsby" alt="badhonkhan481" /></p>
 
-<p><img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=badhonkhan481&theme=great-gatsby" alt="badhonkhan481" /></p>
+<p><img align="center" width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=badhonkhan481&theme=great-gatsby" alt="badhonkhan481" /></p>
 
 </div>
 
