@@ -71,7 +71,8 @@ Technologies and Languages </h2>
 
 <div align="center">
   
-<p><img align="center" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=badhonkhan481&theme=great-gatsby" alt="badhonkhan481" /></p>
+
+<p><img align="center" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=badhonkhan481&theme=great-gatsby&show_icons=true&locale=en&layout=compact" alt="badhonkhan481" /></p>
 
 <p>&nbsp;<img align="center" width="70%" src="https://github-readme-stats.vercel.app/api?username=badhonkhan481&theme=great-gatsby&locale=en" alt="badhonkhan481" /></p>
 
