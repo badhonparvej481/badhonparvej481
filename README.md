@@ -69,19 +69,19 @@ Technologies and Languages </h2>
 
 
 
-<div align="center">
+<!-- <div align="center">
 <a
    href="https://github.com/badhonkhan481"
    target="_blank"
    rel="noreferrer">
     <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=badhonkhan481&theme=great-gatsby&layout=compact"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=badhonkhan481&theme=great-gatsby&layout=compact"
         width="70%"
         height=""
         alt="Lenguages"
     />
-</a>
-<!-- <p><img align="center" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=badhonkhan481&theme=great-gatsby&show_icons=true&locale=en&layout=compact" alt="badhonkhan481" /></p> -->
+</a> -->
+<p><img align="center" width="70%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=badhonkhan481&theme=great-gatsby" alt="badhonkhan481" /></p>
 
 <!-- <p>&nbsp;<img align="center" width="70%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=badhonkhan481&theme=great-gatsby&locale=en" alt="badhonkhan481" /></p> -->
 <a
@@ -89,7 +89,7 @@ Technologies and Languages </h2>
    target="_blank"
    rel="noreferrer">
     <img
-        src="https://github-readme-stats.vercel.app/api?username=badhonkhan481&theme=great-gatsby&count_private=true&show_icons=true"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=badhonkhan481&theme=great-gatsby&count_private=true&show_icons=true"
         width="70%"
         height=""
         alt="ProfilePoints"
