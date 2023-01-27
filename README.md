@@ -12,9 +12,6 @@
  <p align="center" width="90%"> <a href="https://github.com/badhonkhan481/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badhonkhan481&theme=onestar" alt="Badhon Parvej" /></a> </p>              
  
   <p align="center" width="90%"> <a href="https://github.com/badhonkhan481"><img src="game.svg"></a>  </p>              
- 
-
-<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=badhonkhan481" />
 
 <h2 align="center">
 Technologies and Languages </h2>
