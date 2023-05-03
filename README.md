@@ -1,6 +1,6 @@
 
 <img width="100%" alt="Badhon" src="https://github.com/badhonkhan481/badhonkhan481/blob/main/cmr.jpg"><h2 align="center"> I'm Badhon Parvej <br/></h2> 
-<h3 align="center">Working as a Machine Learning Engineer. <br> <br>
+<h3 align="center">Working as a Software Testing & Quality Assurance Engineer. <br> <br>
   <a href="https://github.com/badhonkhan481" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/badhonkhan481?label=Github%20followers&style=for-the-badge">
   </a> <br> <br>
