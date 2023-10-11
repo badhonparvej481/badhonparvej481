@@ -1,17 +1,17 @@
 
-<img width="100%" alt="Badhon" src="https://github.com/badhonkhan481/badhonkhan481/blob/main/cmr.jpg"><h2 align="center"> I'm Badhon Parvej <br/></h2> 
+<img width="100%" alt="Badhon" src="https://github.com/badhonparvej481/badhonparvej481/blob/main/cmr.jpg"><h2 align="center"> I'm Badhon Parvej <br/></h2> 
 <h3 align="center">Working as a Junior Software Quality Assurance Engineer. <br> <br>
-  <a href="https://github.com/badhonkhan481" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/badhonkhan481?label=Github%20followers&style=for-the-badge">
+  <a href="https://github.com/badhonparvej481" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/badhonparvej481?label=Github%20followers&style=for-the-badge">
   </a> <br> <br>
-  <a href="https://github.com/badhonkhan481" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=badhonkhan481&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+  <a href="https://github.com/badhonparvej481" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=badhonparvej481&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
   </a>
   </h3> 
       
- <p align="center" width="90%"> <a href="https://github.com/badhonkhan481/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badhonkhan481&theme=onestar" alt="Badhon Parvej" /></a> </p>              
+ <p align="center" width="90%"> <a href="https://github.com/badhonparvej481/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badhonparvej481&theme=onestar" alt="Badhon Parvej" /></a> </p>              
  
-  <p align="center" width="90%"> <a href="https://github.com/badhonkhan481"><img src="game.svg"></a>  </p>              
+  <p align="center" width="90%"> <a href="https://github.com/badhonparvej481"><img src="game.svg"></a>  </p>              
 
 <h2 align="center">
 Technologies and Languages </h2>
@@ -68,43 +68,43 @@ Technologies and Languages </h2>
 
 <div align="center">
 <!-- <a
-   href="https://github.com/badhonkhan481"
+   href="https://github.com/badhonparvej481"
    target="_blank"
    rel="noreferrer">
     <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=badhonkhan481&theme=great-gatsby&layout=compact"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=badhonparvej481&theme=great-gatsby&layout=compact"
         width="70%"
         height=""
         alt="Lenguages"
     />
 </a> -->
-<p><img align="center" width="70%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=badhonkhan481&theme=great-gatsby" alt="badhonkhan481" /></p>
+<p><img align="center" width="70%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=badhonparvej481&theme=great-gatsby" alt="badhonparvej481" /></p>
 
 <!-- <p>&nbsp;<img align="center" width="70%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=badhonkhan481&theme=great-gatsby&locale=en" alt="badhonkhan481" /></p> -->
 <a
-   href="https://github.com/badhonkhan481"
+   href="https://github.com/badhonparvej481"
    target="_blank"
    rel="noreferrer">
     <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=badhonkhan481&theme=great-gatsby&count_private=true&show_icons=true"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=badhonparvej481&theme=great-gatsby&count_private=true&show_icons=true"
         width="70%"
         height=""
         alt="ProfilePoints"
     />
 </a>
 
-<p><img align="center" width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=badhonkhan481&theme=great-gatsby" alt="badhonkhan481" /></p>
+<p><img align="center" width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=badhonparvej481&theme=great-gatsby" alt="badhonparvej481" /></p>
 
 </div>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <details>
-	 <summary> :snowflake: Do you want to check my profile of CP related various Online Judges? Click here! 📈:</summary>
+	 <summary> :snowflake: Do you want to check my profile of CP-related various Online Judges? Click here! 📈:</summary>
 <div align="center">
 
 
-:star: [Codeforces](https://codeforces.com/profile/badhonkhan481) <br>
-:star: [HackerRank](https://www.hackerrank.com/badhonkhan481) <br>
+:star: [Codeforces](https://codeforces.com/profile/badhonparvej481) <br>
+:star: [HackerRank](https://www.hackerrank.com/badhonparvej481) <br>
 <i>Many more are coming soon...</i> :clap: </div> </details>
 	
 	
@@ -118,14 +118,14 @@ Technologies and Languages </h2>
 
 <h2>Connect with me!</h2>
  
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badhonkhan481/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/badhonkhan481/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badhonkhan481@gmail.com)
-[<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/badhonkhan481/)
-[<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://facebook.com/badhonkhan481)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badhonparvej481/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/badhonparvej481/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badhonparvej481@gmail.com)
+[<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/badhonparvej481/)
+[<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://facebook.com/badhonparvej481)
 <br> <br>
 
 🌟 STAR THE REPOS IF YOU LIKE 🌟
 </div>
 
-Credit: [Badhon Parvej](https://github.com/badhonkhan481)
+Credit: [Badhon Parvej](https://github.com/badhonparvej481)
