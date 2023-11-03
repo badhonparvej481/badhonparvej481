@@ -78,8 +78,8 @@ Technologies and Languages </h2>
         alt="Lenguages"
     />
 </a> -->
-<p><img align="center" width="70%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=badhonparvej481&theme=great-gatsby" alt="badhonparvej481" /></p>
-
+<!-- <p><img align="center" width="70%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=badhonparvej481&theme=great-gatsby" alt="badhonparvej481" /></p> -->
+<p><img align="center" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=badhonparvej481&theme=great-gatsby&show_icons=true&locale=en&layout=compact" alt="badhonparvej481" /></p>
 <!-- <p>&nbsp;<img align="center" width="70%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=badhonkhan481&theme=great-gatsby&locale=en" alt="badhonkhan481" /></p> -->
 <a
    href="https://github.com/badhonparvej481"
