@@ -5,8 +5,8 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/badhonparvej481?label=Github%20followers&style=for-the-badge">
   </a> <br> <br>
   <a href="https://github.com/badhonparvej481" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=badhonparvej481&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
   </a>
+	<p align="center"> <img src="https://komarev.com/ghpvc/?username=badhonparvej481&label=Views%20&color=brightgreen&style=flat" alt="badhonparvej481" /> </p>
   </h3> 
       
  <p align="center" width="90%"> <a href="https://github.com/badhonparvej481/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badhonparvej481&theme=onestar" alt="Badhon Parvej" /></a> </p>              
