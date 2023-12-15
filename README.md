@@ -75,7 +75,7 @@ Technologies and Languages </h2>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <details>
-	 <summary> Snowflake: Do you want to check my profile of CP-related various Online Judges? Click here! 📈:</summary>
+	 <summary> Click here! 📈:</summary>
 <div align="center">
 
 
