@@ -1,6 +1,6 @@
 
 <img width="100%" alt="Badhon" src="https://github.com/badhonparvej481/badhonparvej481/blob/main/cmr.jpg"><h2 align="center"> I'm Badhon Parvej <br/></h2> 
-<h3 align="center">Working as a Junior Software Quality Assurance Engineer. <br> <br>
+<h3 align="center">Working as a Software QA & Test Automation Engineer. <br> <br>
   <a href="https://github.com/badhonparvej481" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/badhonparvej481?label=Github%20followers&style=for-the-badge">
   </a> <br> <br>
