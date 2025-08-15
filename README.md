@@ -1,6 +1,6 @@
 <img width="100%" alt="Badhon" src="https://github.com/badhonparvej481/badhonparvej481/blob/main/badhon.sqa.png">
 
-<h1 align="center">Hi 👋, I'm Badhon Parvej</h1>
+<h1 align="center">Hi, I'm Badhon Parvej</h1>
 <h3 align="center">💼 Software QA & Test Automation Engineer | 🚀 DevOps & DevSecOps Enthusiast | 📊 Project Management Expert</h3>
 
 <p align="center">
