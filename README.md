@@ -69,11 +69,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badhonparvej481&theme=great-gatsby&show_icons=true&layout=compact" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=badhonparvej481&theme=great-gatsby&count_private=true&show_icons=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badhonparvej481&theme=great-gatsby&show_icons=true&layout=compact" width="50%" />
+ 
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=badhonparvej481&theme=great-gatsby" width="60%" />
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=badhonparvej481&theme=great-gatsby&count_private=true&show_icons=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=badhonparvej481&theme=great-gatsby" width="49%" />
 </p>
 
 ---
