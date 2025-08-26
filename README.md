@@ -20,50 +20,79 @@
 ---
 
 ## 🛠 Technologies, Languages & Tools
+<div align="center">
+  <table>
+    <tr style="background-color:#f2f2f2;">
+      <th style="padding:10px; font-size:16px; color:#4A90E2;">
+        <img src="https://img.shields.io/badge/-OS-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="20"> <span style="color:#4A90E2;">Operating Systems</span>
+      </th>
+      <th style="padding:10px; font-size:16px; color:#FF9800;">
+        <img src="https://img.shields.io/badge/-Code-FF9800?style=for-the-badge&logo=java&logoColor=white" height="20"> <span style="color:#FF9800;">Programming Languages</span>
+      </th>
+      <th style="padding:10px; font-size:16px; color:#43B02A;">
+        <img src="https://img.shields.io/badge/-Test-43B02A?style=for-the-badge&logo=selenium&logoColor=white" height="20"> <span style="color:#43B02A;">QA & Test Automation</span>
+      </th>
+      <th style="padding:10px; font-size:16px; color:#326CE5;">
+        <img src="https://img.shields.io/badge/-DevOps-326CE5?style=for-the-badge&logo=docker&logoColor=white" height="20"> <span style="color:#326CE5;">DevOps & CI/CD</span>
+      </th>
+      <th style="padding:10px; font-size:16px; color:#FF6633;">
+        <img src="https://img.shields.io/badge/-Security-000000?style=for-the-badge&logo=wireshark&logoColor=white" height="20"> <span style="color:#FF6633;">Security & Network Testing</span>
+      </th>
+      <th style="padding:10px; font-size:16px; color:#7B68EE;">
+        <img src="https://img.shields.io/badge/-Management-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="20"> <span style="color:#7B68EE;">Project Management & Collaboration</span>
+      </th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows"><br>
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu"><br>
+        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali Linux">
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" alt="Python"><br>
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"><br>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"><br>
+        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"><br>
+        <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress"><br>
+        <img src="https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"><br>
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"><br>
+        <img src="https://img.shields.io/badge/Karate_DSL-2E7D32?style=flat-square&logo=karate&logoColor=white" alt="Karate DSL"><br>
+        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger"><br>
+        <img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=flat-square&logo=apache-jmeter&logoColor=white" alt="JMeter">
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"><br>
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"><br>
+        <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" alt="NGINX"><br>
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"><br>
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"><br>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"><br>
+        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud">
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube"><br>
+        <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP ZAP"><br>
+        <img src="https://img.shields.io/badge/Nmap-0078D6?style=flat-square&logo=nmap&logoColor=white" alt="Nmap"><br>
+        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"><br>
+        <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white" alt="Burp Suite">
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"><br>
+        <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" alt="Azure DevOps"><br>
+        <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white" alt="ClickUp"><br>
+        <img src="https://img.shields.io/badge/Microsoft_Planner-217346?style=flat-square&logo=microsoft-planner&logoColor=white" alt="Microsoft Planner"><br>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"><br>
+        <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab">
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 🖥 Operating Systems
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
-### 🧪 QA & Test Automation
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Karate DSL](https://img.shields.io/badge/Karate_DSL-2E7D32?style=flat-square&logo=karate&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=flat-square&logo=apache-jmeter&logoColor=white)
-
-### 🚀 DevOps & CI/CD
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-
-### 🔐 DevSecOps, Security & Network Testing
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square&logo=owasp&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0078D6?style=flat-square&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
-
-### 📂 Project Management & Collaboration
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
-![Microsoft Planner](https://img.shields.io/badge/Microsoft_Planner-217346?style=flat-square&logo=microsoft-planner&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
 ---
 
