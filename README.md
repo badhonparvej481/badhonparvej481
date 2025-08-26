@@ -20,26 +20,33 @@
 ---
 
 ## 🛠 Technologies, Languages & Tools
-<div align="center">
+
+ <div align="center">
   <table>
-    <tr style="background-color:#f2f2f2;">
-      <th style="padding:10px; font-size:16px; color:#4A90E2;">
-        <img src="https://img.shields.io/badge/-OS-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="20"> <span style="color:#4A90E2;">Operating Systems</span>
+     <tr style="background-color:#f2f2f2;">
+      <th style="padding:10px; font-size:15px; color:#4A90E2;" align="center">
+        <img src="https://img.shields.io/badge/-OS-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="22"><br>
+        <span style="color:#4A90E2;">Operating Systems</span>
       </th>
-      <th style="padding:10px; font-size:16px; color:#FF9800;">
-        <img src="https://img.shields.io/badge/-Code-FF9800?style=for-the-badge&logo=java&logoColor=white" height="20"> <span style="color:#FF9800;">Programming Languages</span>
+      <th style="padding:10px; font-size:15px; color:#FF9800;" align="center">
+        <img src="https://img.shields.io/badge/-Code-FF9800?style=for-the-badge&logo=java&logoColor=white" height="22"><br>
+        <span style="color:#FF9800;">Programming Languages</span>
       </th>
-      <th style="padding:10px; font-size:16px; color:#43B02A;">
-        <img src="https://img.shields.io/badge/-Test-43B02A?style=for-the-badge&logo=selenium&logoColor=white" height="20"> <span style="color:#43B02A;">QA & Test Automation</span>
+      <th style="padding:10px; font-size:15px; color:#43B02A;" align="center">
+        <img src="https://img.shields.io/badge/-Test-43B02A?style=for-the-badge&logo=selenium&logoColor=white" height="22"><br>
+        <span style="color:#43B02A;">QA & Automation</span>
       </th>
-      <th style="padding:10px; font-size:16px; color:#326CE5;">
-        <img src="https://img.shields.io/badge/-DevOps-326CE5?style=for-the-badge&logo=docker&logoColor=white" height="20"> <span style="color:#326CE5;">DevOps & CI/CD</span>
+      <th style="padding:10px; font-size:15px; color:#326CE5;" align="center">
+        <img src="https://img.shields.io/badge/-DevOps-326CE5?style=for-the-badge&logo=docker&logoColor=white" height="22"><br>
+        <span style="color:#326CE5;">DevOps & CI/CD</span>
       </th>
-      <th style="padding:10px; font-size:16px; color:#FF6633;">
-        <img src="https://img.shields.io/badge/-Security-000000?style=for-the-badge&logo=wireshark&logoColor=white" height="20"> <span style="color:#FF6633;">Security & Network Testing</span>
+      <th style="padding:10px; font-size:15px; color:#FF6633;" align="center">
+        <img src="https://img.shields.io/badge/-Security-000000?style=for-the-badge&logo=wireshark&logoColor=white" height="22"><br>
+        <span style="color:#FF6633;">Security & Network</span>
       </th>
-      <th style="padding:10px; font-size:16px; color:#7B68EE;">
-        <img src="https://img.shields.io/badge/-Management-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="20"> <span style="color:#7B68EE;">Project Management & Collaboration</span>
+      <th style="padding:10px; font-size:15px; color:#7B68EE;" align="center">
+        <img src="https://img.shields.io/badge/-Management-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="22"><br>
+        <span style="color:#7B68EE;">Project Management</span>
       </th>
     </tr>
     <tr>
