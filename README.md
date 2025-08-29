@@ -14,7 +14,7 @@
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=badhonparvej481&theme=onestar&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=badhonparvej481&theme=onestar&margin-w=15&margin-h=20" alt="Trophies" />
 </p>
 
 ---
@@ -109,8 +109,8 @@
  
 </p>
 <p align="center">
-   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=badhonparvej481&theme=great-gatsby&count_private=true&show_icons=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=badhonparvej481&theme=great-gatsby" width="49%" />
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=badhonparvej481&theme=great-gatsby&count_private=true&show_icons=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=badhonparvej481&theme=great-gatsby" width="48%" />
 </p>
 
 ---
