@@ -102,7 +102,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badhonparvej481&theme=great-gatsby&show_icons=true&layout=compact" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badhonparvej481&theme=great-gatsby&show_icons=true&layout=compact&langs_count=10" width="50%" />
  
 </p>
 <p align="center">
