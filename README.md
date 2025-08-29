@@ -12,12 +12,9 @@
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=badhonparvej481&theme=onestar&margin-w=15&margin-h=20" alt="Trophies" />
-</p>
 
----
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=badhonparvej481&theme=onestar&margin-w=15&margin-h=20" alt="Trophies" /> -->
+
 
 ## 🛠 Technologies, Languages & Tools
 
