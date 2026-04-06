@@ -119,7 +119,8 @@
 <br>
 <p align="center">
   🌟 <a href="https://codeforces.com/profile/badhonparvej481">Codeforces</a>  
-  🌟 <a href="https://www.hackerrank.com/badhonparvej481">HackerRank</a>  
+  🌟 <a href="https://www.hackerrank.com/badhonparvej481">HackerRank</a>
+  🌟 <a https://leetcode.com/u/badhonparvej481/>Leetcode</a>
 </p>
 <i>More are coming soon...</i> 🎯
 </details>
