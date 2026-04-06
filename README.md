@@ -114,26 +114,42 @@
 
 ---
 
-<details>
-<summary>📈 My Competitive Profiles</summary>
-<br>
+## 📈 My Competitive Profiles
 <p align="center">
-  🌟 <a href="https://codeforces.com/profile/badhonparvej481">Codeforces</a>  
-  🌟 <a href="https://www.hackerrank.com/badhonparvej481">HackerRank</a>
-  🌟 <a href="https://leetcode.com/u/badhonparvej481">Leetcode</a>
+  <a href="https://codeforces.com/profile/badhonparvej481">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
+  </a>
+  <a href="https://www.hackerrank.com/badhonparvej481">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/u/badhonparvej481">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white">
+  </a>
 </p>
-<i>More are coming soon...</i> 🎯
-</details>
+<p align="center"></p>
 
 ---
 
 ## 📬 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/badhonparvej481/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/badhonparvej481/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:badhonparvej481@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://twitter.com/badhonparvej481/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://facebook.com/badhonparvej481"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/badhonparvej481/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/badhonparvej481/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:badhonparvej481@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://twitter.com/badhonparvej481/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://facebook.com/badhonparvej481">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+  <a href="https://upwork.com/freelancers/badhonparvej481">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white">
+  </a>
 </p>
 
 ---
